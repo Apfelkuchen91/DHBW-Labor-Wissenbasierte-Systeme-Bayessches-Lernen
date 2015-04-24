@@ -1,0 +1,16 @@
+# naive bayes classifier data set
+# 1st line: column names
+# subsequent lines: instances
+# 1st column: class
+# subsequent columns: attributes
+Stolen?, Color, Type, Origin
+yes, Red, Sport, Domestic
+no, Red, Sport, Domestic
+yes, Red, Sport, Domestic
+no, Yellow, Sport, Domestic
+yes, Yellow, Sport, Imported
+no, Yellow, SUV, Imported
+yes, Yellow, SUV, Imported
+no, Yellow, SUV, Domestic
+no, Red, SUV, Imported
+yes, Red, Sport, Imported
